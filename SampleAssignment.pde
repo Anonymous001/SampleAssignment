@@ -1,3 +1,4 @@
+size(400,400);
 var makeblock = function (x, y) {
     fill(255, 235, 153);
     noStroke();
