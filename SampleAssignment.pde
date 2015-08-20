@@ -1,5 +1,5 @@
 var makeblock = function (x, y) {
-    size(400,400);
+    size(300,300);
     fill(255, 235, 153);
     noStroke();
     beginShape ();
